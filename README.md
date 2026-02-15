@@ -27,7 +27,7 @@
 
 Студенты МТИ 201б группы  
 [Зуйков Александр](https://github.com/vilsayka)  
-[Грачёв Ярослав](https://github.com/CuzukiFire)
+[Грачёв Ярослав](https://github.com/CuzukiFire)  
 [Варфоломеев Захар](https://github.com/varfolomeeff)
 
 
