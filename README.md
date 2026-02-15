@@ -26,8 +26,8 @@
 ## Авторы  
 
 Студенты МТИ 201б группы  
-![Зуйков Александр](https://github.com/vilsayka)  
-![Грачёв Ярослав](https://github.com/CuzukiFire)
+[Зуйков Александр](https://github.com/vilsayka)  
+[Грачёв Ярослав](https://github.com/CuzukiFire)
 
 
 <a id="opportunity"></a>
