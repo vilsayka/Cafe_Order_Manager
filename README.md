@@ -42,7 +42,7 @@
 - **Печать чеков**: генерация текстового файла с детализацией заказа для выдачи гостю.
 - **Распределение прав доступа**: разграничение прав доступа для официантов и администраторов.
   
-<p align="right"> <a href="content">Содержание</a> </p>
+<p align="right"> <a href="#content">Содержание</a> </p>
 
 <a id="install"></a>
 ## Установка и использование
@@ -79,12 +79,12 @@
     ```
     python main.py
     ```  
-<p align="right"> <a href="content">Содержание</a> </p>
+<p align="right"> <a href="#content">Содержание</a> </p>
     
 <a id="project_structure"></a>  
 ## Структура проекта
 <!--Заполним после написания проекта-->  
-<p align="right"> <a href="content">Содержание</a> </p>
+<p align="right"> <a href="#content">Содержание</a> </p>
 
 <a id="using"></a>  
 ## Сценарии использования
@@ -110,4 +110,4 @@
 
 **Cafe Order Manager** — ваш надёжный помощник в автоматизации кафе!
 
-<p align="right"> <a href="content">Содержание</a> </p>
+<p align="right"> <a href="#content">Содержание</a> </p>
