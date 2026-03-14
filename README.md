@@ -1,6 +1,6 @@
 <a id="cafe"></a>
 # Cafe Order Manager (Система учёта заказов для кафе)
-
+https://miro.com/welcomeonboard/VXdLeVJzM2FPdWhvL1Z4L1p4dWg0OXV6ZkxzMGl4STNVTzZWM2x2VU8wWUdDWFBsNEt1THFoT0NxdDNyMHplMWswUUhDMmx1QVdDcFBVbHlqeUdvQnlaMDd3QXp3dFlkd1M5MVY0dFViLzVZQWZDN1FnYm9yUE9aWmhaQVZLVnZBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=533219149207
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 
 ![Photo_cafe](https://static.vecteezy.com/system/resources/previews/032/492/775/large_2x/restaurant-eatery-with-wooden-furniture-graphic-novel-anime-manga-wallpaper-free-photo.jpg)
